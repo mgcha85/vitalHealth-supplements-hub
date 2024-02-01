@@ -9,7 +9,7 @@
 title: VitalHealth Supplements Hub
 description: '' # write a nice description for your blog
 baseurl: '/vitalHealth-supplements-hub' # the subpath of your site, e.g. /blog
-url: 'https://mgcha85.github.io/vitalHealth-supplements-hub' # the base hostname & protocol for your site http://www.example.com
+url: 'https://mgcha85.github.io' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
 twitter_username: ''
 
